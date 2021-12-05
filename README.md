@@ -1,4 +1,4 @@
-# Regression_Data_Scientist_Salaries
+# Data Scientist Salary Predictor
 Metis Regression Module 2 Project 
 
 ## ABSTRACT
